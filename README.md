@@ -1,7 +1,7 @@
 # Selenium testing pulse.eco website - Netcetera
 
-SeleniumPulseEco is a maven project with selenium and Junit 5 configuration which follows the Page Object Model pattern.
-The aim of this project is to write automated tests for the pulse.eco website which is used for tracking environmental data in different cities around the world using sensors. <br>
+SeleniumPulseEco is a maven project with Selenium and Junit 5 configuration which follows the Page Object Model pattern.
+The aim of this project is to write automated tests for the pulse.eco website which is used to monitor and analyze air quality data in real-time in different cities around the world. <br>
 
 ### The project contains tests that cover the following functionalities:
 - Selecting a city
